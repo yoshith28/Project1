@@ -3,6 +3,7 @@ public class Main {
         System.out.print("Add Task");
         System.out.print("Mark Task as completed");
         System.out.print("View Taskss");
+        System.out.print("Delete Task");
     }
 
 }
